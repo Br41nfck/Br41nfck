@@ -10,3 +10,4 @@
 ![C](https://img.shields.io/badge/C-%20-green)
 ![C++](https://img.shields.io/badge/C%2B%2B-%20-orange)
 ![C#](https://img.shields.io/badge/C%23-%20-red)
+![Emacs-Lisp](https://img.shields.io/badge/Emacs--Lisp-%20-purple)
